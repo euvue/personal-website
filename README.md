@@ -5,7 +5,7 @@
 
 
 
-# Built with [Vitejs](https://github.com/vitejs).
+# Built with [Vite](https://github.com/vitejs/vite).
 
 
 
