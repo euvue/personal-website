@@ -5,7 +5,7 @@
 
 
 
-# Built with [Vite](https://github.com/vitejs/vite).
+# Powered By [Vite](https://github.com/vitejs/vite).
 
 
 
