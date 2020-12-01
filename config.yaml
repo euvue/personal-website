@@ -24,7 +24,7 @@ params:
     has_secondary_nav: true
     secondary_nav_links:
       - label: About
-        url: lorem-ipsum
+        url: /about
         style: link
         has_icon: false
         icon: arrow-left
