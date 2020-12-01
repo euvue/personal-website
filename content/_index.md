@@ -2,21 +2,24 @@
 title: Home
 sections:
   - type: hero_section
-    title: Hello I'm Eupheng Vue!
-    subtitle: Optional hero section subtitle
+<<<<<<< HEAD
+    title: Hello I'm Eupheng Vue.
+    subtitle:
+=======
+    title: 'Hi, I''m Eupheng Vue.'
+    subtitle: null
+>>>>>>> preview
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
       - type: action
-        label: Try Free
-        url: /pricing
-        style: primary
-      - type: action
-        label: Learn More
+        label: Contact
         url: /features
         style: secondary
-    image: images/classic/hero.png
+        has_icon: false
+        icon_position: center
+    image: /images/logowobackground.png
     media_position: left
     media_width: fifty
     align: left
