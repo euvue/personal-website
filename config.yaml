@@ -28,7 +28,7 @@ params:
         new_window: false
         type: action
       - label: Blog
-        url: lorem-ipsum
+        url: /blog
         style: link
         has_icon: false
         icon: arrow-left
