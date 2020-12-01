@@ -12,6 +12,7 @@ sections:
         label: Contact
         url: /features
         style: secondary
+        has_icon: true
     image: /images/logowobackground.png
     media_position: left
     media_width: fifty
