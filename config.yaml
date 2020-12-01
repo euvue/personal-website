@@ -9,7 +9,7 @@ params:
   base_font: serif
   header:
     type: header
-    title: Diy
+    title: Logo
     logo: /images/festive-robin.png
     has_primary_nav: true
     primary_nav_links:
