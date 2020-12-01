@@ -27,10 +27,6 @@ params:
         icon_position: right
         new_window: false
         type: action
-      - type: action
-        label: Contact
-        url: /contact
-        style: link
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
@@ -39,6 +35,10 @@ params:
         icon_position: right
         new_window: false
         type: action
+      - type: action
+        label: Contact
+        url: /contact
+        style: link
     has_anncmnt: false
     anncmnt_content: >-
       Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
