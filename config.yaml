@@ -10,7 +10,7 @@ params:
   header:
     type: header
     title: Logo
-    logo: /images/AB234BEC-06D1-44E0-B4BC-251664D3B461.png
+    logo: /images/festive-robin.png
     has_primary_nav: true
     primary_nav_links:
       - type: action
