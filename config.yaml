@@ -38,7 +38,7 @@ params:
       - type: action
         label: Contact
         url: /contact
-        style: link
+        style: primary
     has_anncmnt: false
     anncmnt_content: >-
       Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
