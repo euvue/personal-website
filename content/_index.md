@@ -13,6 +13,7 @@ sections:
         url: /features
         style: secondary
         has_icon: false
+        icon_position: center
     image: /images/logowobackground.png
     media_position: left
     media_width: fifty
