@@ -10,7 +10,7 @@ params:
   header:
     type: header
     title: Logo
-    logo: /images/festive-robin.png
+    logo: /images/delete.svg
     has_primary_nav: true
     primary_nav_links:
       - type: action
