@@ -16,7 +16,7 @@ sections:
         label: Learn More
         url: /features
         style: secondary
-    image: /images/ProfilePicture.jpeg
+    image: /images/logowobackground.png
     media_position: left
     media_width: fifty
     align: left
