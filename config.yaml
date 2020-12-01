@@ -4,7 +4,7 @@ params:
   description: A "do it yourself" theme for Stackbit
   layout: boxed
   style: minimal
-  palette: red
+  palette: blue
   mode: light
   base_font: serif
   header:
