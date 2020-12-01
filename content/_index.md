@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
 <<<<<<< HEAD
-    title: Hello I'm Eupheng Vue.
-    subtitle:
+    title: 'Hello I'm Eupheng Vue.'
+    subtitle: null
 =======
     title: 'Hi, I''m Eupheng Vue.'
     subtitle: null
