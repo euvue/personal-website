@@ -10,7 +10,7 @@ sections:
     actions:
       - type: action
         label: Contact
-        url: mail
+        url: 'mailto:hello@'
         style: secondary
         has_icon: false
         icon_position: center
