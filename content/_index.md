@@ -7,13 +7,7 @@ sections:
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
-    actions:
-      - type: action
-        label: Contact
-        url: ''
-        style: secondary
-        has_icon: false
-        icon_position: center
+    actions: []
     image: /images/logowobackground.png
     media_position: left
     media_width: fifty
