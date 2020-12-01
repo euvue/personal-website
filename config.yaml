@@ -16,7 +16,7 @@ params:
       - type: action
         label: Blog
         url: /blog
-        style: primary
+        style: secondary
     has_secondary_nav: true
     secondary_nav_links:
       - label: About
