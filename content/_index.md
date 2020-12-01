@@ -9,7 +9,7 @@ sections:
       ligula, cursus id molestie vel.
     actions:
       - type: action
-        label: contact
+        label: Contact
         url: /features
         style: secondary
     image: /images/logowobackground.png
