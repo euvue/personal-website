@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I''m Eupheng Vue.'
+    title: 'Hi, I''m '
     subtitle: null
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
