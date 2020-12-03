@@ -20,7 +20,7 @@ sections:
         url: lorem-ipsum
         style: link
         has_icon: false
-        icon: facebook
+        icon: github
         icon_position: center
         new_window: false
         type: action
