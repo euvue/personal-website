@@ -9,7 +9,7 @@ sections:
       ligula, cursus id molestie vel.
     actions:
       - label: lorem-ipsum
-        url: lorem-ipsum
+        url: ''
         style: primary
         has_icon: true
         icon: arrow-left
