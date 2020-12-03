@@ -25,7 +25,7 @@ sections:
         new_window: false
         type: action
       - label: linkedin
-        url: lorem-ipsum
+        url: 'https://www.linkedin.com/in/euvue/'
         style: link
         has_icon: true
         icon: linkedin
