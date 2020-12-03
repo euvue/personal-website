@@ -8,7 +8,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: lorem-ipsum
+      - label: twitter
         url: ''
         style: primary
         has_icon: true
