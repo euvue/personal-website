@@ -10,7 +10,7 @@ params:
   header:
     type: header
     title: Logo
-    logo: /images/EC093C04-BE88-41E4-BD96-FB6D07E67617.png
+    logo: /images/IMG_BBD6CF8F2B6C-1.png
     has_primary_nav: true
     primary_nav_links:
       - type: action
