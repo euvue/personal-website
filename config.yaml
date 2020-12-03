@@ -90,7 +90,7 @@ params:
         new_window: true
       - type: action
         label: GitHub
-        url: 'https://github.com/'
+        url: 'https://github.com/euvue'
         style: link
         has_icon: true
         icon: github
