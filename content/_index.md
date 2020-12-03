@@ -16,14 +16,6 @@ sections:
         icon_position: center
         new_window: false
         type: action
-      - label: github
-        url: 'https://github.com/euvue'
-        style: link
-        has_icon: true
-        icon: github
-        icon_position: center
-        new_window: false
-        type: action
     image: /images/logowobackground.png
     media_position: left
     media_width: fifty
