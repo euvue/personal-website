@@ -42,7 +42,7 @@ sections:
     background_image_opacity: 22
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
+    subtitle: ''
     actions:
       - type: action
         label: View All
