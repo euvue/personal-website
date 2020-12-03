@@ -98,7 +98,7 @@ params:
         new_window: true
       - type: action
         label: LinkedIn
-        url: 'https://www.linkedin.com/euvue'
+        url: 'https://www.linkedin.com/in/euvue/'
         style: link
         has_icon: true
         icon: linkedin
