@@ -24,7 +24,7 @@ sections:
         icon_position: center
         new_window: false
         type: action
-      - label: lorem-ipsum
+      - label: linkedin
         url: lorem-ipsum
         style: link
         has_icon: true
