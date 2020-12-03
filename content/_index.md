@@ -18,7 +18,7 @@ sections:
         type: action
       - label: github
         url: 'https://github.com/euvue'
-        style: secondary
+        style: primary
         has_icon: true
         icon: github
         icon_position: center
