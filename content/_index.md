@@ -9,7 +9,7 @@ sections:
       ligula, cursus id molestie vel.
     actions:
       - label: twitter
-        url: ''
+        url: 'https://twitter.com/euvuedotme'
         style: primary
         has_icon: true
         icon: twitter
