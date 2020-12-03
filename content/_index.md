@@ -10,7 +10,7 @@ sections:
     actions:
       - label: twitter
         url: 'https://twitter.com/euvuedotme'
-        style: secondary
+        style: link
         has_icon: true
         icon: twitter
         icon_position: center
