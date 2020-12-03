@@ -2,7 +2,7 @@ title: Eupheng Vue
 baseURL: /
 params:
   description: Eupheng Vue
-  layout: full-width
+  layout: boxed
   style: bold
   palette: gray
   mode: light
