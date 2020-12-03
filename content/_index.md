@@ -19,7 +19,7 @@ sections:
       - label: github
         url: lorem-ipsum
         style: link
-        has_icon: false
+        has_icon: true
         icon: github
         icon_position: center
         new_window: false
