@@ -7,15 +7,7 @@ sections:
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
-    actions:
-      - label: twitter
-        url: 'https://twitter.com/euvuedotme'
-        style: link
-        has_icon: true
-        icon: twitter
-        icon_position: center
-        new_window: false
-        type: action
+    actions: []
     image: /images/logowobackground.png
     media_position: left
     media_width: fifty
