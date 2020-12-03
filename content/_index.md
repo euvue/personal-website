@@ -16,7 +16,7 @@ sections:
         icon_position: center
         new_window: false
         type: action
-      - label: ''
+      - label: github
         url: lorem-ipsum
         style: link
         has_icon: false
