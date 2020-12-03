@@ -24,14 +24,6 @@ sections:
         icon_position: center
         new_window: false
         type: action
-      - label: linkedin
-        url: 'https://www.linkedin.com/in/euvue/'
-        style: link
-        has_icon: true
-        icon: linkedin
-        icon_position: center
-        new_window: false
-        type: action
     image: /images/logowobackground.png
     media_position: left
     media_width: fifty
