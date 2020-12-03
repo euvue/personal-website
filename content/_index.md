@@ -13,7 +13,7 @@ sections:
         style: primary
         has_icon: true
         icon: twitter
-        icon_position: right
+        icon_position: center
         new_window: false
         type: action
     image: /images/logowobackground.png
