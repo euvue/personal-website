@@ -7,25 +7,18 @@ sections:
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: primary
-        has_icon: true
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        type: action
+    actions: []
     image: /images/logowobackground.png
     media_position: left
     media_width: fifty
     align: left
-    padding_top: large
+    padding_top: small
     padding_bottom: large
     background_color: primary
+    background_image_opacity: 22
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
+    subtitle: ''
     actions:
       - type: action
         label: View All

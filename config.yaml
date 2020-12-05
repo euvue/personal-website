@@ -1,7 +1,7 @@
 title: Eupheng Vue
 baseURL: /
 params:
-  description: A "do it yourself" theme for Stackbit
+  description: Eupheng Vue
   layout: boxed
   style: bold
   palette: gray
@@ -10,17 +10,17 @@ params:
   header:
     type: header
     title: Logo
-    logo: /images/festive-robin.png
+    logo: /images/B9A5D9A7-575F-4DA6-B32C-840B6C1D1DEF.png
     has_primary_nav: true
     primary_nav_links:
       - type: action
-        label: Eup
+        label: Eupheng Vue
         url: ''
         style: link
     has_secondary_nav: true
     secondary_nav_links:
       - label: About
-        url: /about
+        url: ''
         style: link
         has_icon: false
         icon: arrow-left
@@ -49,8 +49,7 @@ params:
     anncmnt_id: new-features
   footer:
     type: footer
-    logo: /images/logo-8.svg
-    has_primary_nav: true
+    has_primary_nav: false
     primary_nav_title: Company
     primary_nav_links:
       - type: action
@@ -61,22 +60,14 @@ params:
         label: Style Guide
         url: /style-guide
         style: link
-    has_secondary_nav: true
+    has_secondary_nav: false
     secondary_nav_title: Blog
     secondary_nav_links:
       - type: action
         label: News
         url: /blog/category/news
         style: link
-      - type: action
-        label: General
-        url: /blog/category/general
-        style: link
-      - type: action
-        label: Tutorials
-        url: /blog/category/tutorials
-        style: link
-    has_tertiary_nav: true
+    has_tertiary_nav: false
     tertiary_nav_title: Legal
     tertiary_nav_links:
       - type: action
@@ -91,7 +82,7 @@ params:
     social_links:
       - type: action
         label: Twitter
-        url: 'https://twitter.com/'
+        url: 'https://twitter.com/euvuedotme'
         style: link
         has_icon: true
         icon: twitter
@@ -99,7 +90,7 @@ params:
         new_window: true
       - type: action
         label: GitHub
-        url: 'https://github.com/'
+        url: 'https://github.com/euvue'
         style: link
         has_icon: true
         icon: github
@@ -107,13 +98,13 @@ params:
         new_window: true
       - type: action
         label: LinkedIn
-        url: 'https://www.linkedin.com/'
+        url: 'https://www.linkedin.com/in/euvue/'
         style: link
         has_icon: true
         icon: linkedin
         icon_position: center
         new_window: true
-    content: '&copy; Stackbit-DIY. All rights reserved.'
+    content: '&copy; Eupheng Vue All rights reserved.'
     links:
       - type: action
         label: Made with Stackbit.
