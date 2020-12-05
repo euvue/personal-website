@@ -1,6 +1,6 @@
 # ✨ beige-pine ✨
 
-<img src="https://themes.stackbit.com/images/diy-demo-1024x768.png" width="600">
+## This is my quick Jamstack Profile
 
 This is a [Hugo](https://gohugo.io) site using [Netlify CMS](https://www.netlifycms.org) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
 
