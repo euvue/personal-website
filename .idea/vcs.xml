@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HFOSC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hmong-Free-Open-Source-Collective" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/initVersion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/minimal-task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/techtonic-apprenticeship-initial-pre-work" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/techtonic-apprenticeship-initial-pre-work-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vue-your-todos" vcs="Git" />
+  </component>
+</project>
