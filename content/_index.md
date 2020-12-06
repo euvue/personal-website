@@ -63,6 +63,7 @@ sections:
         style: primary
         has_icon: true
         icon_position: right
+        new_window: true
     actions_position: bottom
     align: center
     padding_top: large
