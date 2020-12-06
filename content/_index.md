@@ -27,7 +27,7 @@ sections:
         style: link
         has_icon: true
         icon: linkedin
-        icon_position: right
+        icon_position: center
         new_window: false
         type: action
     image: /images/logowobackground.png
