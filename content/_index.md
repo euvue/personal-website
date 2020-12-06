@@ -132,7 +132,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: blog_feed_section
-    title: What's New
+    title: Blog
     subtitle: ''
     actions:
       - type: action
