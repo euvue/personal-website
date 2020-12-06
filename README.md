@@ -1,6 +1,6 @@
-# ✨ beige-pine ✨
+# ✨ Eupheng Vue✨
 
-## This is my quick Jamstack Profile
+## This is my initial Jamstack website built with Hugo from Stackbit 
 
 This is a [Hugo](https://gohugo.io) site using [Netlify CMS](https://www.netlifycms.org) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
 
@@ -33,42 +33,3 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
                 </ul>
 </details>
 
-## Develop Locally
-
-1. Follow the [installation guide](https://gohugo.io/getting-started/installing/) to install Hugo
-
-1. This theme uses [Hugo Pipes](https://gohugo.io/hugo-pipes/) to handle SCSS – please ensure you have the Hugo extended version installed:
-
-        hugo version
-
-
-
-1. Start the Hugo development server:
-
-        hugo server
-
-1. Open [http://localhost:1313/](http://localhost:1313/) in the browser
-
-1. 🎉
-
-## Editing Content
-
-To start editing your site, you can use the Netlify CMS interface at `https://example.com/admin`, replacing `example.com` with your site's URL.
-
-Alternatively, you can use the free on-page editing experience provided by the [Stackbit Studio](https://stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
-
-[![](https://i3.ytimg.com/vi/zd9lGRLVDm4/hqdefault.jpg)](https://link.stackbit.com/project-readme-lead-video)
-
-Here's a few resources to get you started:
-
-- 📺 &nbsp; [Editing Content](https://link.stackbit.com/project-readme-editing-video)
-- 📺 &nbsp; [Adding, Reordering and Deleting Items](https://link.stackbit.com/project-readme-adding-video)
-- 📺 &nbsp; [Collaboration](https://link.stackbit.com/project-readme-collaboration-video)
-- 📺 &nbsp; [Publishing](https://link.stackbit.com/project-readme-publishing-video)
-- 📚 &nbsp; [Stackbit Documentation](https://www.stackbit.com/docs/)
-
-If you need a hand, make sure to check the [Stackbit support page](https://www.stackbit.com/support?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes).
-
-## Colophon
-
-Generated at `2020-12-01T18:19:12.789Z` by Stackbit version `0.3.38`.
