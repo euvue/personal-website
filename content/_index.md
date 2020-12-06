@@ -53,6 +53,7 @@ sections:
         label: View More
         url: /pricing
         style: primary
+        has_icon: true
     actions_position: bottom
     align: center
     padding_top: large
