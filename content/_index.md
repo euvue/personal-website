@@ -6,7 +6,7 @@ sections:
     subtitle: I am a student at the University of Colorado - Denver.
     content: ''
     actions:
-      - label: lorem-ipsum
+      - label: Github
         url: lorem-ipsum
         style: link
         has_icon: true
