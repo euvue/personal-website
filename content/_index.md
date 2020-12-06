@@ -14,28 +14,6 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image_opacity: 22
-  - type: blog_feed_section
-    title: What's New
-    subtitle: ''
-    actions:
-      - type: action
-        label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    show_image: true
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: ''
@@ -63,5 +41,27 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+  - type: blog_feed_section
+    title: What's New
+    subtitle: ''
+    actions:
+      - type: action
+        label: View All
+        url: /blog
+        style: primary
+    blog_feed_cols: three
+    enable_cards: true
+    show_recent: true
+    recent_count: 3
+    show_date: true
+    show_categories: true
+    show_author: true
+    show_excerpt: false
+    show_image: true
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
 layout: advanced
 ---
