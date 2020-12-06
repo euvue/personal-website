@@ -49,11 +49,6 @@ sections:
     title: Projects
     content: ''
     actions:
-      - type: action
-        label: View More
-        url: /pricing
-        style: primary
-        has_icon: true
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
@@ -62,6 +57,11 @@ sections:
         icon_position: right
         new_window: false
         type: action
+      - type: action
+        label: View More
+        url: /pricing
+        style: primary
+        has_icon: true
     actions_position: bottom
     align: center
     padding_top: large
