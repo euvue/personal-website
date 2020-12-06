@@ -31,7 +31,7 @@ sections:
         actions: []
         video_embed_html: ''
         media_position: top
-        media_width: fifty
+        media_width: fourty
         align: left
         type: feature
     feature_padding_vert: small
