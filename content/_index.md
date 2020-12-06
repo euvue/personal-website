@@ -46,7 +46,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: Pr
     content: ''
     actions:
       - type: action
