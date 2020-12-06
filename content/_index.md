@@ -14,19 +14,6 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image_opacity: 22
-  - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: ''
-    actions:
-      - type: action
-        label: Button
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features: []
@@ -41,6 +28,19 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+  - type: cta_section
+    title: This is Call To Action Section In DIY Theme!
+    content: ''
+    actions:
+      - type: action
+        label: Button
+        url: /pricing
+        style: primary
+    actions_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
   - type: blog_feed_section
     title: What's New
     subtitle: ''
