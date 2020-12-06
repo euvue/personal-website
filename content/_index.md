@@ -35,7 +35,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: small
-    padding_bottom: large
+    padding_bottom: small
     background_color: primary
     background_image_opacity: 22
   - title: About Me
