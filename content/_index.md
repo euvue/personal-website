@@ -15,7 +15,7 @@ sections:
     background_color: primary
     background_image_opacity: 22
   - title: About Me
-    subtitle: k
+    subtitle: ''
     actions: []
     grid_items: []
     grid_cols: three
