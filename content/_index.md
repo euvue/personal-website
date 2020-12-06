@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Hi, my name is Eupheng Vue.'
     subtitle: I am a student at the University of Colorado - Denver.
-    content: >-
+    content: ''
     actions: []
     image: /images/logowobackground.png
     media_position: left
@@ -38,8 +38,7 @@ sections:
     background_color: none
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
-    content: >-
-    
+    content: ''
     actions:
       - type: action
         label: Button
@@ -50,5 +49,19 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    features: []
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
 layout: advanced
 ---
