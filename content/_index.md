@@ -62,6 +62,7 @@ sections:
         url: /pricing
         style: primary
         has_icon: true
+        icon_position: center
     actions_position: bottom
     align: center
     padding_top: large
