@@ -5,7 +5,15 @@ sections:
     title: 'Hi, my name is Eupheng Vue.'
     subtitle: I am a student at the University of Colorado - Denver.
     content: ''
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        type: action
     image: /images/logowobackground.png
     media_position: left
     media_width: fifty
