@@ -46,7 +46,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - type: cta_section
-    title: Pr
+    title: Projects
     content: ''
     actions:
       - type: action
