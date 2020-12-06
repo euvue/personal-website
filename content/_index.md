@@ -50,7 +50,7 @@ sections:
     content: ''
     actions:
       - type: action
-        label: 'View additional '
+        label: View More
         url: /pricing
         style: primary
     actions_position: bottom
