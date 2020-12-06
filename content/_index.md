@@ -70,6 +70,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: /images/AB234BEC-06D1-44E0-B4BC-251664D3B461.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
@@ -91,6 +92,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: /images/2CCB028A-2EE2-496A-B685-754D0ABF15F9.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
