@@ -63,30 +63,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: cta_section
-    title: Projects
-    content: ''
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        type: action
-      - type: action
-        label: View More
-        url: /pricing
-        style: primary
-        has_icon: true
-        icon_position: right
-        new_window: true
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
   - type: blog_feed_section
     title: What's New
     subtitle: ''
