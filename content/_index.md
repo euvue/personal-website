@@ -50,7 +50,7 @@ sections:
     content: ''
     actions:
       - type: action
-        label: Button
+        label: View
         url: /pricing
         style: primary
     actions_position: bottom
