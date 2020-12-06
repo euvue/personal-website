@@ -15,7 +15,7 @@ sections:
     background_color: primary
     background_image_opacity: 22
   - title: About Me
-    subtitle: lorem-ipsum
+    subtitle: ''
     features: []
     feature_padding_vert: medium
     align: center
