@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, my name is Eupheng Vue.'
-    subtitle: I am a student at the University of Colorado - Denver.
+    subtitle: ''
     content: ''
     actions:
       - label: Github
