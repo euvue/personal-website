@@ -3,15 +3,39 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, my name is Eupheng Vue.'
-    subtitle: I am a student at the University of Colorado - Denver.
+    subtitle: ''
     content: ''
-    actions: []
+    actions:
+      - label: Github
+        url: lorem-ipsum
+        style: link
+        has_icon: true
+        icon: github
+        icon_position: center
+        new_window: false
+        type: action
+      - label: Twitter
+        url: lorem-ipsum
+        style: link
+        has_icon: true
+        icon: twitter
+        icon_position: center
+        new_window: false
+        type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: true
+        icon: linkedin
+        icon_position: center
+        new_window: false
+        type: action
     image: /images/logowobackground.png
     media_position: left
     media_width: fifty
     align: left
-    padding_top: small
-    padding_bottom: large
+    padding_top: none
+    padding_bottom: none
     background_color: primary
     background_image_opacity: 22
   - title: About Me
@@ -45,8 +69,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - title: Projects
+    subtitle: ''
     actions: []
     grid_items:
       - title: lorem-ipsum
@@ -108,7 +132,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: blog_feed_section
-    title: What's New
+    title: Blog
     subtitle: ''
     actions:
       - type: action
@@ -129,5 +153,38 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    title_align: left
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    content_align: left
+    form_position: bottom
+    form_width: fifty
+    form_layout: stacked
+    enable_card: false
+    form_id: lorem-ipsum
+    form_action: lorem-ipsum
+    form_fields: []
+    submit_label: lorem-ipsum
+    align_vert: top
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: form_section
 layout: advanced
 ---
