@@ -58,6 +58,10 @@ sections:
           Incoming nocode and code developer, currently, I am studying Computer
           Science at University of Colorado Denver while learning nocode and
           code stack.
+
+
+          I enjoy learning about Free Open Source Software, alternative
+          software, and alternative operating systems.
         actions: []
         video_embed_html: ''
         media_position: top
