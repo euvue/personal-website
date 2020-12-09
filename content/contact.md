@@ -1,6 +1,6 @@
 ---
 title: hello@euphengvue.com
-excerpt: ''
+excerpt: contact
 layout: page
 ---
 ## PGP Public Key Fingerprint
