@@ -1,6 +1,6 @@
 ---
 title: Hmong Developer Discourse Forum
-subtitle: '2020, I noticed that within my cu'
+subtitle: '2020, I noticed that within my culture'
 date: '2020-04-16'
 author: data/team/dianne-ameter.json
 categories:
