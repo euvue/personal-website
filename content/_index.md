@@ -34,7 +34,7 @@ sections:
         url: '@vue@fosstodon.org'
         style: primary
         has_icon: true
-        icon: arrow-right
+        icon: arrow-left
         icon_position: right
         new_window: false
         type: action
