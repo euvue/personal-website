@@ -32,7 +32,7 @@ sections:
         new_window: false
         type: action
       - label: Mastodon
-        url: '@vue@fosstodon.org'
+        url: 'https://fosstodon.org/@vue'
         style: primary
         has_icon: true
         icon: arrow-right
