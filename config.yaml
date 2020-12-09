@@ -33,7 +33,7 @@ params:
         type: action
       - type: action
         label: Contact
-        url: hello@euphengvue.com
+        url: ''
         style: primary
         has_icon: false
         new_window: true
