@@ -1,5 +1,5 @@
 ---
-title: P
+title: PGP - Public Key
 excerpt: hello@euphengvue.com
 layout: page
 ---
