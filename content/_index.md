@@ -55,14 +55,9 @@ sections:
       - title: ''
         subtitle: ''
         content: >-
-          ## Lorem ipsum
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Incoming nocode and code developer, currently, I am studying Computer
+          Science at University of Colorado Denver while learning nocode and
+          code stack.
         actions: []
         video_embed_html: ''
         media_position: top
