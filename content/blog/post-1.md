@@ -6,8 +6,7 @@ categories:
   - data/categories/tutorials.json
   - data/categories/general.json
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
+  What? Hmong Developer Forum
 thumb_image: /images/Screen Shot 2020-12-08 at 9.48.06 PM.png
 image: /images/magical-tortoise.png
 image_position: right
