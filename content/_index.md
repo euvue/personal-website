@@ -31,7 +31,7 @@ sections:
         new_window: false
         type: action
       - label: Mastodon
-        url: lorem-ipsum
+        url: '@vue@fosstodon.org'
         style: link
         has_icon: false
         icon: arrow-left
