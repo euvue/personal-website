@@ -1,6 +1,6 @@
 ---
 title: contact
-excerpt: lorem-ipsum
+excerpt: hello@euphengvue.com
 layout: page
 ---
 ## Lorem ipsum
