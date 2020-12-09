@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: contact
 excerpt: lorem-ipsum
 layout: page
 ---
