@@ -2,7 +2,7 @@
 title: hello@euphengvue.com
 excerpt: hello@euphengvue.com
 sections:
-  - title: lorem-ipsum
+  - title: hello@euphengvue.com
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
