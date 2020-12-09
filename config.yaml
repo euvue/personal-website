@@ -3,7 +3,7 @@ baseURL: /
 params:
   description: Eupheng Vue
   layout: boxed
-  style: minimal
+  style: classic
   palette: gray
   mode: light
   base_font: serif
