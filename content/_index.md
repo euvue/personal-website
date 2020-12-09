@@ -5,9 +5,8 @@ sections:
     title: 'Hi, my name is Eupheng Vue.'
     subtitle: ''
     content: >+
-      Incoming nocode and code developer, currently, I am studying Computer
-      Science at University of Colorado Denver while learning nocode and code
-      stack.
+      I am studying Computer Science at University of Colorado Denver while
+      learning nocode and code stack.
 
     actions:
       - label: Github
