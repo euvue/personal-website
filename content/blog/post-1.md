@@ -1,5 +1,5 @@
 ---
-title: 'Self '
+title: 'Self Hosted '
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
