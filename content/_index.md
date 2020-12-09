@@ -64,10 +64,7 @@ sections:
 
           - dolor sit amet
         actions: []
-        video_embed_html: >-
-          Incoming nocode and code developer, currently, I am studying Computer
-          Science at University of Colorado Denver while learning nocode and
-          code stack.
+        video_embed_html: ''
         media_position: top
         media_width: fourty
         align: left
