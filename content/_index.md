@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: 'Hi, my name is Eupheng Vue.'
     subtitle: ''
-    content: >+
-      I am studying Computer Science at University of Colorado Denver while
-      learning nocode and code stack.
+    content: |+
+      I am studying Computer Science at University of Colorado Denver.
+
 
     actions:
       - label: Github
