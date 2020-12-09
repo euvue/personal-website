@@ -22,7 +22,7 @@ sections:
         icon_position: center
         new_window: false
         type: action
-      - label: lorem-ipsum
+      - label: LinkedIn
         url: lorem-ipsum
         style: link
         has_icon: true
