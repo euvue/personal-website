@@ -37,7 +37,7 @@ sections:
         url: 'https://fosstodon.org/@vue'
         style: link
         has_icon: true
-        icon: facebook
+        icon: arrow-right
         icon_position: center
         new_window: false
         type: action
