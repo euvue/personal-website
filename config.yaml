@@ -33,10 +33,8 @@ params:
         type: action
       - type: action
         label: Contact
-        url: hello@euphengvue.com
+        url: "mailto:hello@euphengvue.com"
         style: primary
-        has_icon: false
-        new_window: true
     has_anncmnt: false
     anncmnt_content: >-
       Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
