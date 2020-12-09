@@ -33,11 +33,7 @@ params:
         type: action
       - type: action
         label: Contact
-<<<<<<< HEAD
         url: "mailto:hello@euphengvue.com"
-=======
-        url: ''
->>>>>>> 7ec46c74a2f651ac130f72f282fbfd810cb0f0f2
         style: primary
     has_anncmnt: false
     anncmnt_content: >-
