@@ -15,7 +15,7 @@ sections:
         new_window: false
         type: action
       - label: Twitter
-        url: lorem-ipsum
+        url: 'https://twitter.com/euvuedotme'
         style: link
         has_icon: true
         icon: twitter
