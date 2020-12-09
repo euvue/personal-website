@@ -1,5 +1,5 @@
 ---
-title: 'I '
+title: 'Self '
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
