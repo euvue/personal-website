@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: 'Hi, my name is Eupheng Vue.'
     subtitle: ''
-    content: ''
+    content: |
+      This is  a test
     actions:
       - label: Github
         url: 'https://github.com/euvue'
