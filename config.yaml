@@ -33,7 +33,7 @@ params:
         type: action
       - type: action
         label: Contact
-        url: 'mailto:'
+        url: 'mailto:hello@euphengvue.com'
         style: primary
     has_anncmnt: false
     anncmnt_content: >-
