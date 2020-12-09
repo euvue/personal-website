@@ -3,7 +3,7 @@ title: ''
 excerpt: contact
 layout: page
 ---
-# [Email](mailto:hello@euphengvue.com)
+# [Email Me](mailto:hello@euphengvue.com)
 
 ## PGP Public Key Fingerprint
 
