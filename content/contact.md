@@ -1,5 +1,5 @@
 ---
-title: ''
+title: '[]'
 excerpt: contact
 layout: page
 ---
