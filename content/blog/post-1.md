@@ -1,6 +1,6 @@
 ---
 title: Hmong Developer Discourse Forum
-subtitle: '2020, I noticed that within my culture that there is '
+subtitle: '2020, I noticed that within my culture that there is not any other '
 date: '2020-04-16'
 author: data/team/dianne-ameter.json
 categories:
