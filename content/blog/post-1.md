@@ -1,8 +1,6 @@
 ---
 title: Hmong Developer Discourse Forum
-subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
+subtitle: 'With '
 date: '2020-04-16'
 author: data/team/dianne-ameter.json
 categories:
