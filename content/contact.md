@@ -1,5 +1,5 @@
 ---
-title: '[Email]'
+title: '[Email]()'
 excerpt: contact
 layout: page
 ---
