@@ -1,7 +1,7 @@
 ---
 title: Hmong Developer Discourse Forum
 subtitle: ''
-date: '2020-12-16'
+date: '2020-12-08'
 author: data/team/dianne-ameter.json
 categories:
   - data/categories/tutorials.json
