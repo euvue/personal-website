@@ -1,5 +1,5 @@
 ---
-title: '[Email](hello@euphengvue.com)'
+title: Contact
 excerpt: contact
 layout: page
 ---
