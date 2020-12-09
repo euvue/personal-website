@@ -35,7 +35,7 @@ sections:
         type: action
       - label: '@vue@fosstodon.org'
         url: 'https://fosstodon.org/@vue'
-        style: link
+        style: primary
         has_icon: true
         icon: arrow-right
         icon_position: center
