@@ -31,7 +31,7 @@ sections:
         icon_position: center
         new_window: false
         type: action
-      - label: 'https://fosstodon.org/@vue'
+      - label: '@vue'
         url: 'https://fosstodon.org/@vue'
         style: primary
         has_icon: false
