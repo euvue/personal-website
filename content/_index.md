@@ -34,7 +34,7 @@ sections:
         url: '@vue@fosstodon.org'
         style: primary
         has_icon: true
-        icon: facebook
+        icon: github
         icon_position: center
         new_window: false
         type: action
