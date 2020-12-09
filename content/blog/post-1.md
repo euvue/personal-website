@@ -1,5 +1,5 @@
 ---
-title: Self Hosted Discourse Fodurm
+title: Self Hosted Discourse Forum
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
