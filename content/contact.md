@@ -1,5 +1,5 @@
 ---
-title: <a href="hello@euphengvue.com">
+title: <a href="hello@euphengvue.com">hello@eupheng.com</a>
 excerpt: contact
 layout: page
 ---
