@@ -2,7 +2,7 @@
 title: Hmong Developer Discourse Forum
 subtitle: >-
   2020, I noticed that within my culture that there is not a platform for
-  developers to mingle and collaborate.  So, I decide to  
+  developers to mingle and collaborate.  So, I decide to buy the  
 date: '2020-04-16'
 author: data/team/dianne-ameter.json
 categories:
