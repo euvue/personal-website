@@ -4,10 +4,13 @@ sections:
   - type: hero_section
     title: 'Hi, my name is Eupheng Vue.'
     subtitle: ''
-    content: ''
+    content: |+
+      I am studying Computer Science at University of Colorado Denver.
+
+
     actions:
       - label: Github
-        url: lorem-ipsum
+        url: 'https://github.com/euvue'
         style: link
         has_icon: true
         icon: github
@@ -15,18 +18,26 @@ sections:
         new_window: false
         type: action
       - label: Twitter
-        url: lorem-ipsum
+        url: 'https://twitter.com/euvuedotme'
         style: link
         has_icon: true
         icon: twitter
         icon_position: center
         new_window: false
         type: action
-      - label: lorem-ipsum
+      - label: LinkedIn
         url: lorem-ipsum
         style: link
         has_icon: true
         icon: linkedin
+        icon_position: center
+        new_window: false
+        type: action
+      - label: '@vue@fosstodon.org'
+        url: 'https://fosstodon.org/@vue'
+        style: link
+        has_icon: false
+        icon: arrow-right
         icon_position: center
         new_window: false
         type: action
@@ -41,17 +52,16 @@ sections:
   - title: About Me
     subtitle: ''
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - title: ''
+        subtitle: ''
         content: >-
-          ## Lorem ipsum
+          Incoming nocode and code developer, currently, I am studying Computer
+          Science at University of Colorado Denver while learning nocode and
+          code stack.
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          I enjoy learning about Free Open Source Software, alternative
+          software, and alternative operating systems.
         actions: []
         video_embed_html: ''
         media_position: top
@@ -73,28 +83,6 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content: >-
-          ## Lorem ipsum
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: /images/AB234BEC-06D1-44E0-B4BC-251664D3B461.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
@@ -153,38 +141,5 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    content_align: left
-    form_position: bottom
-    form_width: fifty
-    form_layout: stacked
-    enable_card: false
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields: []
-    submit_label: lorem-ipsum
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
 layout: advanced
 ---
