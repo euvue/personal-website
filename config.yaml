@@ -10,7 +10,7 @@ params:
   header:
     type: header
     title: Logo
-    logo: /images/0CB710C1-2FE4-4D59-8A2E-4517D8D5B530.png
+    logo: /images/violet-spider.png
     has_primary_nav: false
     primary_nav_links: []
     has_secondary_nav: true
