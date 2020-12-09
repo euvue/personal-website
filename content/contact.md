@@ -1,6 +1,6 @@
 ---
 title: hello@euphengvue.com
-excerpt: lorem-ipsum
+excerpt: hello@euphengvue.com
 sections: []
 layout: advanced
 ---
