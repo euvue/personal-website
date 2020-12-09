@@ -4,7 +4,7 @@ params:
   description: Eupheng Vue
   layout: boxed
   style: classic
-  palette: red
+  palette: green
   mode: dark
   base_font: serif
   header:
