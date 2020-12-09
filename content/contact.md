@@ -1,11 +1,9 @@
 ---
-title: lorem-ipsum
-excerpt: lorem-ipsum
+title: hello@euphengvue.com
+excerpt: ''
 layout: page
 ---
-## Lorem ipsum
+## PGP Public Key Fingerprint
+#### 41D6 D1BD 58B5 2B49 E87C  142B 19E8 BE2F 3B10 A2FA
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+[eupheng.asc](https://github.com/euvue/pgp-public-key/blob/main/eupheng.asc)
