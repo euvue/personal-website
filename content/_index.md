@@ -4,8 +4,10 @@ sections:
   - type: hero_section
     title: 'Hi, my name is Eupheng Vue.'
     subtitle: ''
-    content: |
-      This is  a test
+    content: >-
+      Incoming nocode and code developer, currently, I am studying Computer
+      Science at University of Colorado Denver while learning nocode and code
+      stack.
     actions:
       - label: Github
         url: 'https://github.com/euvue'
