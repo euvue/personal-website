@@ -85,7 +85,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: e
+      - title: ''
         subtitle: ''
         title_align: center
         content: |
