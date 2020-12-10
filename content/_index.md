@@ -72,18 +72,7 @@ sections:
         type: feature
       - title: Tools
         subtitle: Unix Macbook Pro 16
-        content: |
-          ### Editor
-          - Webstorm
-          -  Visual Studio Code
-
-          ----
-          ### Terminal 
-          - ITerm2
-          - Webstorm Terminal
-          - Visual Studio Code Terminal
-
-          > [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
+        content: "### Editor\n- Webstorm\n-  Visual Studio Code\n\n----\n### Terminal \n- ITerm2\n- Webstorm Terminal\n- Visual Studio Code Terminal\n\t\n\t- [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)\n"
         actions: []
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
