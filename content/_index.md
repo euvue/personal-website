@@ -92,7 +92,7 @@ sections:
         video_embed_html: ''
         media_position: top
         media_width: fifty
-        align: left
+        align: right
         type: feature
     feature_padding_vert: small
     align: center
