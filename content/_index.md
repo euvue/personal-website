@@ -90,7 +90,7 @@ sections:
           [oh-my-fish] is my shell of choice
 
 
-          <p>ITerm2</p>
+          <p><a href="https://iterm2.com/">ITerm2</a></p>
 
           <p>Webstorm Terminal</p>
 
