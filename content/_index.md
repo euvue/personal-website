@@ -87,7 +87,7 @@ sections:
     grid_items:
       - title: Personal Website
         subtitle: ''
-        title_align: left
+        title_align: right
         content: >-
           ## Lorem ipsum
 
