@@ -89,7 +89,7 @@ sections:
         subtitle: ''
         title_align: center
         content: |
-          ## Personal Website with Stackbit
+          ## Personal Website 
         content_align: left
         actions: []
         actions_align: left
