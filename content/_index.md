@@ -83,9 +83,9 @@ sections:
 
           [oh-my-fish] is my shell of choice
 
-          ITerm2
-          Webstorm Terminal
-          Visual Studio Code Terminal
+          <p>ITerm2</p>
+          <p>Webstorm Terminal</p>
+          <p>Visual Studio Code Terminal</p>
 
 
           [oh-my-fish]:https://github.com/oh-my-fish/oh-my-fish
