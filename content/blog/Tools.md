@@ -9,8 +9,10 @@ image_position: top
 layout: post
 thumb_image: /images/bold/icon-4.svg
 ---
-## Daily Driver
+## Laptop
 #### Unix Macbook Pro 16
+#### Thinkpad x230T
+	- FreeBSD
 
 ----
 
