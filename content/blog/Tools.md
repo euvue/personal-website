@@ -11,8 +11,7 @@ thumb_image: /images/bold/icon-4.svg
 ---
 ## Laptop
 #### Unix Macbook Pro 16
-#### Thinkpad x230T
-	- FreeBSD
+#### Thinkpad x230T (FreeBSD)
 
 ----
 
