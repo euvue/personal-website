@@ -18,5 +18,5 @@ thumb_image: /images/bold/icon-4.svg
  
  <p><a href="https://www.jetbrains.com/webstorm/">Webstorm</a></p>
  <a href="https://www.vim.org/">Vim</a>
- <p><a href="https://code.visualstudio.com/">Visual Studio Code</a></p>
+ <a href="https://code.visualstudio.com/">Visual Studio Code</a>
  
