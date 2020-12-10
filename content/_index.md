@@ -74,17 +74,17 @@ sections:
         subtitle: Unix Macbook Pro 16
         content: |-
           ### Editor
-          - Webstorm
-          -  Visual Studio Code
+           Webstorm
+          Visual Studio Code
 
           ----
           ### Terminal 
 
           [oh-my-fish] is my shell of choice
 
-          - ITerm2
-          - Webstorm Terminal
-          - Visual Studio Code Terminal
+          ITerm2
+          Webstorm Terminal
+          Visual Studio Code Terminal
 
 
           [oh-my-fish]:https://github.com/oh-my-fish/oh-my-fish
