@@ -26,7 +26,7 @@ sections:
         new_window: false
         type: action
       - label: LinkedIn
-        url: lorem-ipsum
+        url: LInkedIn
         style: link
         has_icon: true
         icon: linkedin
