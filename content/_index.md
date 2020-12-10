@@ -88,8 +88,11 @@ sections:
       - title: Personal Website
         subtitle: ''
         title_align: center
-        content: |
-          ## Personal Website 
+        content: >
+          #### Stackbit
+
+          Building my initial website using
+          [Stackbit](https://www.stackbit.com/).
         content_align: left
         actions: []
         actions_align: left
