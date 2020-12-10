@@ -71,7 +71,7 @@ sections:
         align: left
         type: feature
       - title: Tools
-        subtitle: 'Unix '
+        subtitle: Unix Mac
         content: >-
           ## Lorem ipsum
 
