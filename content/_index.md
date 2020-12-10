@@ -70,7 +70,7 @@ sections:
         media_width: fourty
         align: left
         type: feature
-      - title: Technology Tools
+      - title: Tools
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
