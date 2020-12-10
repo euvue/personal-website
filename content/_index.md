@@ -82,6 +82,7 @@ sections:
           - ITerm2
           - Webstorm Terminal
           - Visual Studio Code Terminal
+
           > [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
         actions: []
         video_embed_html: >-
