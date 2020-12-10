@@ -1,6 +1,6 @@
 ---
 title: Technology Tools
-subtitle: lorem-ipsum
+subtitle: ''
 date: '2020-12-10'
 categories: []
 tags: []
