@@ -72,15 +72,16 @@ sections:
         type: feature
       - title: Tools
         subtitle: Unix Macbook Pro 16
-        content: >-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          ### Editor
+          - Webstorm
+          - Visual Studio Code
+          ----
+          ### Terminal 
+          - ITerm2
+          - Webstorm Terminal
+          - Visual Studio Code Terminal
+          > [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
         actions: []
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
