@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Contact
 excerpt: ''
 layout: page
 ---
