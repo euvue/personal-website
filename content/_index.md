@@ -53,7 +53,7 @@ sections:
     subtitle: ''
     features:
       - title: ''
-        subtitle: s
+        subtitle: ''
         content: >-
           Incoming nocode and code developer, currently, I am studying Computer
           Science at University of Colorado Denver while learning nocode and
