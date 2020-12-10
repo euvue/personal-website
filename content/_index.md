@@ -85,7 +85,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: ''
+      - title: Stackbit
         subtitle: ''
         title_align: center
         content: |
