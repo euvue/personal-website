@@ -85,7 +85,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Personal Website
         subtitle: ''
         title_align: left
         content: >-
