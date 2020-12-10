@@ -7,6 +7,7 @@ tags: []
 excerpt: lorem-ipsum
 image_position: top
 layout: post
+thumb_image: /images/bold/icon-4.svg
 ---
 ## Lorem ipsum
 
