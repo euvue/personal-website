@@ -85,7 +85,7 @@ sections:
     subtitle: ''
     actions: []
     grid_items:
-      - title: Personal Website
+      - title: ''
         subtitle: ''
         title_align: center
         content: |
