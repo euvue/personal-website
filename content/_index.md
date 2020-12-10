@@ -75,7 +75,8 @@ sections:
         content: |
           ### Editor
           - Webstorm
-          - Visual Studio Code
+          -  Visual Studio Code
+
           ----
           ### Terminal 
           - ITerm2
