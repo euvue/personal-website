@@ -79,9 +79,9 @@ sections:
 
           ----
           ### Terminal 
-          `
-          oh-my-fish
-          `
+
+          [oh-my-fish] is my shell of choice
+
           - ITerm2
           - Webstorm Terminal
           - Visual Studio Code Terminal
