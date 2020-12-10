@@ -23,7 +23,8 @@ thumb_image: /images/bold/icon-4.svg
  ---
  
  ### Terminal
- [oh-my-fish] is my shell of choice.
+ 
+[oh-my-fish] is my shell of choice.
  
 [ITerm2] is my default terminal.
  
