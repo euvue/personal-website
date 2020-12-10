@@ -22,7 +22,7 @@ thumb_image: /images/bold/icon-4.svg
  
  ---
  
- ### Terminal
+ ###  Terminal
  
 [oh-my-fish] is my shell of choice.
  
