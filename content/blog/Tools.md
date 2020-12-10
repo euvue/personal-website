@@ -1,5 +1,5 @@
 ---
-title: Technology Tools
+title: Techie Tools
 subtitle: ''
 date: '2020-12-10'
 categories: []
