@@ -1,6 +1,6 @@
 ---
 title: ''
-excerpt: contact
+excerpt: ''
 layout: page
 ---
 # [Email Me](mailto:hello@euphengvue.com)
