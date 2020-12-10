@@ -74,7 +74,7 @@ sections:
         subtitle: Unix Macbook Pro 16
         content: |-
           ### Editor
-          <p>Webstorm</p>
+          <p>[Webstorm](https://www.jetbrains.com/webstorm/)</p>
 
           <p>Visual Studio Code </p>
 
