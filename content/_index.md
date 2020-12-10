@@ -71,7 +71,7 @@ sections:
         align: left
         type: feature
       - title: Tools
-        subtitle: Unix Macbook Pro
+        subtitle: Unix Macbook Pro 16
         content: >-
           ## Lorem ipsum
 
