@@ -70,41 +70,6 @@ sections:
         media_width: fourty
         align: left
         type: feature
-      - title: Tools
-        subtitle: Unix Macbook Pro 16
-        content: >-
-          ### Editor
-
-          [Webstorm](https://www.jetbrains.com/webstorm/)
-
-
-          <p><a href="https://code.visualstudio.com/">Visual Studio Code
-          </a></p>
-
-
-          ----
-
-          ### Terminal 
-
-
-          [oh-my-fish] is my shell of choice
-
-
-          <p><a href="https://iterm2.com/">ITerm2</a></p>
-
-          <p>Webstorm Terminal</p>
-
-          <p>Visual Studio Code Terminal</p>
-
-
-
-          [oh-my-fish]:https://github.com/oh-my-fish/oh-my-fish
-        actions: []
-        video_embed_html: ''
-        media_position: top
-        media_width: fifty
-        align: center
-        type: feature
     feature_padding_vert: small
     align: center
     padding_top: medium
