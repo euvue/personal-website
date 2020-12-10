@@ -74,8 +74,9 @@ sections:
         subtitle: Unix Macbook Pro 16
         content: |-
           ### Editor
-           Webstorm
-          Visual Studio Code
+          <p>Webstorm</p>
+
+          < p >Visual Studio Code </p>
 
           ----
           ### Terminal 
