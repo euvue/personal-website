@@ -16,6 +16,6 @@ thumb_image: /images/bold/icon-4.svg
 
 ### Editor
   <a href="https://www.jetbrains.com/webstorm/">Webstorm</a>
- <a href="https://www.vim.org/">Vim</a>
+ <br><a href="https://www.vim.org/">Vim</a></br>
  <p><a href="https://code.visualstudio.com/">Visual Studio Code</a></p>
  
