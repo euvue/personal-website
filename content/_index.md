@@ -70,7 +70,7 @@ sections:
         media_width: fourty
         align: left
         type: feature
-      - title: lorem-ipsum
+      - title: ''
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
