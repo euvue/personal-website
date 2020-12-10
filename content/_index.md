@@ -26,7 +26,7 @@ sections:
         new_window: false
         type: action
       - label: LinkedIn
-        url: LInkedIn
+        url: 'https://www.linkedin.com/in/euvue/'
         style: link
         has_icon: true
         icon: linkedin
