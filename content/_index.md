@@ -73,8 +73,6 @@ sections:
       - title: Tools
         subtitle: Unix Macbook Pro 16
         content: >-
-          ## 2019 Unix Macbook Pro 16
-
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
