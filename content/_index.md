@@ -76,7 +76,7 @@ sections:
           ### Editor
           <p>Webstorm</p>
 
-          < p >Visual Studio Code </p>
+          <p>Visual Studio Code </p>
 
           ----
           ### Terminal 
