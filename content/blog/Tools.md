@@ -5,7 +5,7 @@ date: '2020-12-10'
 categories: []
 tags: []
 excerpt: Tech Tools I Use
-image_position: top
+image_position: right
 layout: post
 thumb_image: /images/about-4.jpg
 image: /images/about-4.jpg
