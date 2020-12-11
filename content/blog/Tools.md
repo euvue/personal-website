@@ -7,7 +7,8 @@ tags: []
 excerpt: Tech Tools I Use
 image_position: top
 layout: post
-thumb_image: /images/bold/icon-4.svg
+thumb_image: /images/about-4.jpg
+image: /images/about-4.jpg
 ---
 ## Laptop
 #### Unix Macbook Pro 16

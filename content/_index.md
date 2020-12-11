@@ -26,7 +26,7 @@ sections:
         new_window: false
         type: action
       - label: LinkedIn
-        url: lorem-ipsum
+        url: 'https://www.linkedin.com/in/euvue/'
         style: link
         has_icon: true
         icon: linkedin
@@ -41,7 +41,6 @@ sections:
         icon_position: center
         new_window: false
         type: action
-    image: /images/logowobackground.png
     media_position: left
     media_width: fifty
     align: left
@@ -49,6 +48,7 @@ sections:
     padding_bottom: none
     background_color: primary
     background_image_opacity: 22
+    image: /images/avatar.webp
   - title: About Me
     subtitle: ''
     features:
@@ -62,8 +62,8 @@ sections:
 
           I enjoy learning about Free Open Source Software, alternative
           software, and alternative operating systems. In addition, I enjoy
-          learning about self-host cloud delployment intances and Technological
-          Security practices.
+          learning about self-host cloud deployment intances and technological
+          best security practices.
         actions: []
         video_embed_html: ''
         media_position: top
@@ -102,7 +102,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/2CCB028A-2EE2-496A-B685-754D0ABF15F9.png
+        image: /images/personal-website.webp
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
