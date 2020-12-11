@@ -41,7 +41,7 @@ sections:
         icon_position: center
         new_window: false
         type: action
-    image: /images/logowobackground.png
+    image: /images/logo.jpg
     media_position: left
     media_width: fifty
     align: left
