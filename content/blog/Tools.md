@@ -8,6 +8,7 @@ excerpt: Tech Tools I Use
 image_position: top
 layout: post
 thumb_image: /images/about-4.jpg
+image: /images/about-4.jpg
 ---
 ## Laptop
 #### Unix Macbook Pro 16
