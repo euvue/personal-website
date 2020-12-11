@@ -6,7 +6,7 @@ params:
   style: minimal
   palette: green
   mode: dark
-  base_font: serif
+  base_font: sans-serif
   header:
     type: header
     title: Logo
