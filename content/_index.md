@@ -41,7 +41,6 @@ sections:
         icon_position: center
         new_window: false
         type: action
-    image: /images/logowobackground.png
     media_position: left
     media_width: fifty
     align: left
@@ -49,6 +48,7 @@ sections:
     padding_bottom: none
     background_color: primary
     background_image_opacity: 22
+    image: /images/avatar.webp
   - title: About Me
     subtitle: ''
     features:
@@ -101,7 +101,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/2CCB028A-2EE2-496A-B685-754D0ABF15F9.png
+        image: /images/personal-website.webp
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
