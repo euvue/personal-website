@@ -62,7 +62,7 @@ sections:
 
           I enjoy learning about Free Open Source Software, alternative
           software, and alternative operating systems. In addition, I enjoy
-          learning about self-hosted cloud instances and privacy focus technologies.
+          learning about self-hosted cloud instances and privacy focused technologies.
         actions: []
         video_embed_html: ''
         media_position: top
