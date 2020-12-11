@@ -48,7 +48,7 @@ sections:
     padding_bottom: none
     background_color: primary
     background_image_opacity: 22
-    image: /images/logowobackground.png
+    image: /images/avatar.webp
   - title: About Me
     subtitle: ''
     features:
