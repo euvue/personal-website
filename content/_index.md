@@ -18,7 +18,7 @@ sections:
         new_window: false
         type: action
       - label: Twitter
-        url: 'https://twitter.com/euvuedotme'
+        url: 'https://twitter.com/euphengvue'
         style: link
         has_icon: true
         icon: twitter
