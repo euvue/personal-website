@@ -7,7 +7,7 @@ categories:
 excerpt: 1st NoCode website
 thumb_image: /images/Screen Shot 2020-12-30 at 10.24.01 PM.webp
 image: /images/parallel-amaranth.webp
-image_position: right
+image_position: top
 layout: post
 ---
 In the last month, I stumbled an NoCode, LowCode website & web apps builder. This website builder, [softr.io](https://softr.io), had a job board template that caught my attention. Immediately, I created an account and I started tinkering with the job board template. While I was tinkering around with the job board, I opened another browser tab and I browsed to [namecheap.com](https://namecheap.com) for a niche job board domain name. Traumatized, I queried for a geo-location niched job board, **Mplsjobs.com**
