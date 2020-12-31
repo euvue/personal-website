@@ -8,7 +8,7 @@ categories:
 excerpt: What? Hmong Developer Forum
 thumb_image: /images/Screen Shot 2020-12-08 at 9.48.06 PM.png
 image: /images/magical-tortoise.png
-image_position: right
+image_position: top
 layout: post
 ---
 2020, I noticed that within my culture that there is not a platform for developers to mingle and collaborate. The platform that   So, I decide to buy a domain name, [hmong.dev](https://hmong.dev), and self host a community forum. 
