@@ -7,7 +7,7 @@ tags: []
 excerpt: Tech Tools I Use
 image_position: top
 layout: post
-thumb_image: /images/about-4.jpg
+thumb_image: /images/kari-shea-1SAnrIxw5OY-unsplash.jpg
 image: /images/about-4.jpg
 ---
 ## Laptop
