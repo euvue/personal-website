@@ -5,8 +5,8 @@ date: '2020-12-30'
 categories:
   - data/categories/general.json
 excerpt: 1st NoCode website
-thumb_image: /images/Screen Shot 2020-12-08 at 9.48.06 PM.png
-image: /images/magical-tortoise.png
+thumb_image: /images/Screen Shot 2020-12-30 at 10.24.01 PM.webp
+image: /images/parallel-amaranth.webp
 image_position: right
 layout: post
 ---
