@@ -6,7 +6,7 @@ categories:
   - data/categories/general.json
 excerpt: 1st NoCode website
 thumb_image: /images/Screen Shot 2020-12-30 at 10.24.01 PM.webp
-image: /images/magical-tortoise.png
+image: /images/parallel-amaranth.webp
 image_position: right
 layout: post
 ---
