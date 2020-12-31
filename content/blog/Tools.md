@@ -12,7 +12,7 @@ image: /images/kari-shea-1SAnrIxw5OY-unsplash (1).jpg
 ---
 ## Laptop
 #### Unix Macbook Pro 16
-#### Thinkpad x230T (FreeBSD)
+#### Thinkpad x230T (LMDE)
 
 ----
 
