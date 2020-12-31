@@ -5,7 +5,7 @@ sections:
     title: 'Hi, my name is Eupheng Vue.'
     subtitle: ''
     content: |+
-      I am studying Computer Science at University of Colorado Denver.
+      I am studying Computer Science at the University of Colorado Denver.
 
 
     actions:
@@ -62,7 +62,8 @@ sections:
 
           I enjoy learning about Free Open Source Software, alternative
           software, and alternative operating systems. In addition, I enjoy
-          learning about self-hosted cloud instances and privacy focused technologies.
+          learning about self-hosted cloud instances and privacy focused
+          technologies.
         actions: []
         video_embed_html: ''
         media_position: top
