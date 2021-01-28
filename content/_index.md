@@ -48,7 +48,7 @@ sections:
     padding_bottom: none
     background_color: primary
     background_image_opacity: 22
-    image: /images/avatar.webp
+    image: /images/2CCB028A-2EE2-496A-B685-754D0ABF15F9.png
   - title: About Me
     subtitle: ''
     features:
