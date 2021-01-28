@@ -104,7 +104,7 @@ sections:
         type: grid_item
         image: /images/personal-website.webp
       - title: Nocodepedia
-        subtitle: lorem-ipsum
+        subtitle: Free Nocode wiki
         title_align: left
         content: >-
           ## Lorem ipsum
