@@ -106,17 +106,8 @@ sections:
       - title: Nocodepedia
         subtitle: Free Nocode wiki
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          #### Built and self-hosted this free Nocode Wiki
         content_align: left
         actions: []
         actions_align: left
