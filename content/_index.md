@@ -106,8 +106,9 @@ sections:
       - title: Nocodepedia
         subtitle: Free Nocode wiki
         title_align: left
-        content: |
-          #### Built and self-hosted this free Nocode Wiki
+        content: >
+          #### Built and self-hosted this free Nocode Wiki&#xA;&#xA;\##### The
+          main self-hosted software is \[saltcorn]\(https://saltcorn.com)
         content_align: left
         actions: []
         actions_align: left
