@@ -48,7 +48,7 @@ sections:
     padding_bottom: none
     background_color: primary
     background_image_opacity: 22
-    image: /images/B9A5D9A7-575F-4DA6-B32C-840B6C1D1DEF.png
+    image: /images/EC093C04-BE88-41E4-BD96-FB6D07E67617.png
   - title: About Me
     subtitle: ''
     features:
