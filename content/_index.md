@@ -48,7 +48,7 @@ sections:
     padding_bottom: none
     background_color: primary
     background_image_opacity: 22
-    image: /images/avatar.webp
+    image: /images/IMG_BBD6CF8F2B6C-1.png
   - title: About Me
     subtitle: ''
     features:
@@ -103,6 +103,22 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/personal-website.webp
+      - title: Nocodepedia
+        subtitle: Free Nocode wiki
+        title_align: left
+        content: >
+          ##### Built and self-hosted this free Nocode Wiki&#xA;&#xA;The main
+          self-hosted software is saltcorn.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: /images/Screen Shot 2021-01-27 at 9.15.42 PM.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
